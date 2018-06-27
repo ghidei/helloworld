@@ -1,6 +1,4 @@
-
-#Description (sample taken from [akka-samples](https://github.com/akka/akka-samples/tree/2.5/akka-sample-main-scala))
-
+# Description (sample taken from [akka-samples](https://github.com/akka/akka-samples/tree/2.5/akka-sample-main-scala))
 
 ## The Obligatory Hello World
 
